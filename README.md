@@ -2,6 +2,7 @@
 
 This project is a Power BI dashboard built to visualize and analyze hospital patient data.  
 It provides clear insights into patient demographics, disease distribution, and key health metrics.
+![Hospital Dashboard Banner](./POWERBI Dashboard.png)
 
 ## 📊 Dashboard Features
 - **Gender Distribution** (Pie Chart)
